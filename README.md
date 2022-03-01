@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**Matheeus00/Matheeus00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, Matheeus00 here 👋
 
-Here are some ideas to get you started:
+- **From:** Brazil :brazil:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Graduated:** in Analysis and Systems Development :computer:
+
+#### :raising_hand_man: More about me:
+```java
+public Skill getSkills() {
+    Skill skill = new Skill();
+
+    Code code = new Code("Java", "JavaScript", "Python");
+    Tools tools = new Tools("Jenkins", "Gradle", "Maven");
+    Language langs = new Language("Portuguese", "English");
+    Hobby hobbies = new Hobby("Hacking", "Reading", "Science");
+
+    skill.setName("Matheus");
+    skill.setCode(code);
+    skill.setTool(tools);
+    skill.setLanguage(langs);
+    skill.setHobby(hobbies);
+    skill.overviewWritterByMyself(Boolean.TRUE);
+    
+    return skill;
+}
+```
