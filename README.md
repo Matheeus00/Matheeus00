@@ -10,7 +10,7 @@
 public Skill getSkills() {
     Skill skill = new Skill();
 
-    Code code      = new Code("Java", "JavaScript", "Python");
+    Code code      = new Code("HTML", "CSS", "Java", "JavaScript", "Python");
     Tools tools    = new Tools("Jenkins", "Gradle", "Maven");
     Language langs = new Language("Portuguese", "English");
     Hobby hobbies  = new Hobby("Hacking", "Reading", "Science");
