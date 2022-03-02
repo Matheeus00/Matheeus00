@@ -2,8 +2,8 @@
 ### Hi there, Matheeus00 here 👋
 
 - **From:** Brazil :brazil:
-- **Graduated:** in Analysis and Systems Development :computer:
-- **Job:** Java Full Stack Developer ☕
+- **Graduated:** Analysis and Systems Development :computer:
+- **Job:** Full Stack Developer ☕
 
 #### :raising_hand_man: More about me:
 ```java
