@@ -20,7 +20,7 @@ public Skill getSkills() {
     skill.setTool(tools);
     skill.setLanguage(langs);
     skill.setHobby(hobbies);
-    skill.overviewWritterByMyself(Boolean.TRUE);
+    skill.overviewWrittenByMyself(Boolean.TRUE);
     
     return skill;
 }
