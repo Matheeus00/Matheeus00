@@ -11,26 +11,26 @@ skills:
   front-end: React
   back-end: Spring Boot
   build:
-  - Gradle
-  - Maven
-  - Ant
+    - Gradle
+    - Maven
+    - Ant
   ci/cd:
-  - Jenkins
-  - Hudson
+    - Jenkins
+    - Hudson
   sql:
-  - MySQL
-  - SQL Server
-  - Oracle Database
+    - MySQL
+    - SQL Server
+    - Oracle Database
 
 Hobbies:
-- Hacking
-- Reading
-- Electronics
-- Python
-- Play with my Dog Fred
+  - Hacking
+  - Reading
+  - Electronics
+  - Python
+  - Play with my Dog Fred
 
 Languages:
-- Portuguese
-- Spanish
-- English
+  - Portuguese
+  - Spanish
+  - English
 ```
