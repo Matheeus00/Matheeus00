@@ -21,6 +21,7 @@ skills:
   - MySQL
   - SQL Server
   - Oracle Database
+
 hobbies:
 - Hacking
 - Reading
