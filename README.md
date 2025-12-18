@@ -9,7 +9,8 @@
 ```yaml
 skills:
   front-end: React
-  back-end: Spring Boot
+  back-end: Spring Boot, Django
+  mobile: React-Native
   build:
     - Gradle
     - Maven
@@ -21,6 +22,7 @@ skills:
     - MySQL
     - SQL Server
     - Oracle Database
+    - PostgreSQL
 
 Hobbies:
   - Hacking
