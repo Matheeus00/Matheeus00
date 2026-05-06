@@ -23,15 +23,12 @@ skills:
     - SQL Server
     - Oracle Database
     - PostgreSQL
-
-Hobbies:
+hobbies:
   - Hacking
   - Reading
-  - Electronics
   - Python
   - Play with my Dog Fred
-
-Languages:
+languages:
   - Portuguese
   - Spanish
   - English
