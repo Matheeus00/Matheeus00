@@ -9,7 +9,9 @@
 ```yaml
 skills:
   front-end: React
-  back-end: Spring Boot, Django
+  back-end:
+    - Spring Boot
+    - Django
   mobile: React-Native
   build:
     - Gradle
