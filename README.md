@@ -18,30 +18,15 @@ entender e fazer funcionar melhor.
 
 ## `01` / TECH STACK
 
-<div align="center">
-
 **Frontend & mobile**  
-<img src="https://skillicons.dev/icons?i=react,js,ts,flutter,html,css" alt="React, JavaScript, TypeScript, Flutter, HTML e CSS" />
+`React` · `JavaScript` · `TypeScript` · `Flutter` · `HTML/CSS` · `React Native`
 
 **Backend**  
-<img src="https://skillicons.dev/icons?i=java,spring,python,django,fastapi" alt="Java, Spring, Python, Django e FastAPI" />
+`Java` · `Spring Boot` · `Python` · `Django` · `FastAPI`
 
 **Dados & ferramentas**  
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,git,jenkins" alt="MySQL, PostgreSQL, SQLite, MongoDB, Git e Jenkins" />
-
-</div>
-
-<details>
-<summary><b>Outras ferramentas no meu kit</b></summary>
-
-- Controle de versão: Git, SVN e CVS
-- Build: Gradle, Maven e Ant
-- CI/CD: Jenkins e Hudson
-- Bancos de dados: MySQL, SQL Server, Oracle Database, PostgreSQL, SQLite e MongoDB
-- Mobile: Flutter e React Native
-- Também trabalho com Spring Boot, Django e FastAPI
-
-</details>
+`MySQL` · `PostgreSQL` · `SQLite` · `MongoDB` · `SQL Server` · `Oracle Database`  
+`Git` · `SVN` · `CVS` · `Jenkins` · `Hudson` · `Gradle` · `Maven` · `Ant`
 
 ## `02` / FORA DO TERMINAL
 
