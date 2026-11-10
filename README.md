@@ -12,7 +12,8 @@
 ┌──(matheeus㉿github)-[~]
 └─$ cat about.txt
 Formado em Análise e Desenvolvimento de Sistemas e Gestão de TI.
-Fundador da Vanilla Solutions, cofundador do app Suitepet e idealizador do Tempo no Taquari.
+Fundador da Vanilla Solutions, cofundador do app SuitePet e idealizador do
+[Tempo no Taquari](https://temponotaquari.com.br).
 Curioso por software, sistemas embarcados e tudo que dá para desmontar,
 entender e fazer funcionar melhor.
 ```
