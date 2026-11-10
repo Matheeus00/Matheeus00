@@ -12,8 +12,7 @@
 ┌──(matheeus㉿github)-[~]
 └─$ cat about.txt
 Formado em Análise e Desenvolvimento de Sistemas e Gestão de TI.
-Curioso por software, sistemas embarcados e tudo que dá para desmontar,
-entender e fazer funcionar melhor.
+Curioso por software, sistemas embarcados e tudo que dá para desmontar, entender e fazer funcionar melhor.
 ```
 
 ## `01` / TECH STACK
