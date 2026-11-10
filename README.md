@@ -1,51 +1,65 @@
 <div align="center">
 
-# `Matheeus00` 👋
+# `Matheeus00` <sub>~/</sub>
 
-### 🇧🇷 Desenvolvedor Full Stack • curioso por natureza • chimarrão no combustível 🧉
+### `FULL STACK DEVELOPER` · 🇧🇷 · `MATE` powered 🧉
 
-*Transformando ideias em código — e sempre aprendendo alguma coisa nova no caminho.*
+**Construindo, explorando e entendendo como as coisas funcionam por dentro.**
 
 </div>
 
----
-
-```text
-┌─[matheeus@github]─[~/sobre-mim]
-└──╼ $ whoami
-     Desenvolvedor formado em Análise e Desenvolvimento de Sistemas
-     e Gestão de TI, do Brasil, que gosta de construir coisas para web e mobile.
+```bash
+┌──(matheeus㉿github)-[~]
+└─$ cat about.txt
+Formado em Análise e Desenvolvimento de Sistemas e Gestão de TI.
+Curioso por software, sistemas embarcados e tudo que dá para desmontar,
+entender e fazer funcionar melhor.
 ```
 
-## 🧰 Minha caixa de ferramentas
-
-**Linguagens & frameworks**  
-`React` · `Spring Boot` · `Django` · `FastAPI` · `Flutter` · `React Native`
-
-**Controle de versão**  
-`Git` · `SVN` · `CVS`
-
-**Build & CI/CD**  
-`Gradle` · `Maven` · `Ant` · `Jenkins` · `Hudson`
-
-**Bancos de dados**  
-`MySQL` · `SQL Server` · `Oracle Database` · `PostgreSQL` · `SQLite` · `MongoDB`
-
-## 🌱 Fora do código
-
-- Gosto de mexer no meu carro — tanto em projetos embarcados quanto na manutenção 🔧🚗
-- Curto filosofia, ética e leituras distópicas das mais diversas 📚
-- Também gosto de ler, brincar com Python e passar tempo com meu cachorro Fred 🐶
-- Idiomas: português 🇧🇷 · espanhol 🇪🇸 · inglês 🇬🇧 · japonês 🇯🇵 (em aprendizado)
-
-## 💬 Por aqui
-
-Se você também curte tecnologia, projetos criativos e boas conversas sobre código, chegou ao lugar certo. Dá uma olhada nos meus repositórios! 🚀
-
----
+## `01` / TECH STACK
 
 <div align="center">
 
-<sub>Feito com curiosidade, código e chimarrão 🧉</sub>
+**Frontend & mobile**  
+<img src="https://skillicons.dev/icons?i=react,js,ts,flutter,html,css" alt="React, JavaScript, TypeScript, Flutter, HTML e CSS" />
+
+**Backend**  
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,fastapi" alt="Java, Spring, Python, Django e FastAPI" />
+
+**Dados & ferramentas**  
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,git,jenkins" alt="MySQL, PostgreSQL, SQLite, MongoDB, Git e Jenkins" />
+
+</div>
+
+<details>
+<summary><b>Outras ferramentas no meu kit</b></summary>
+
+- Controle de versão: Git, SVN e CVS
+- Build: Gradle, Maven e Ant
+- CI/CD: Jenkins e Hudson
+- Bancos de dados: MySQL, SQL Server, Oracle Database, PostgreSQL, SQLite e MongoDB
+- Mobile: Flutter e React Native
+- Também trabalho com Spring Boot, Django e FastAPI
+
+</details>
+
+## `02` / FORA DO TERMINAL
+
+- 🔧 Projetos embarcados, manutenção e tudo que envolve mexer no meu carro
+- 📚 Filosofia, ética e leituras distópicas das mais diversas
+- 🐶 Python, leitura e tempo com meu cachorro Fred
+- 🌐 Português 🇧🇷 · espanhol 🇪🇸 · inglês 🇬🇧 · japonês 🇯🇵 *(em aprendizado)*
+
+## `03` / STATUS
+
+```text
+[ curiosidade ] ━━━━━━━━━━━━━━━━━━━━━━━━ ativa
+[ chimarrão   ] ━━━━━━━━━━━━━━━━━━━━━━━━ conectado 🧉
+[ próximo     ] ━━━━━━━━━━━━━━━━━━━━━━━━ sempre aprendendo
+```
+
+<div align="center">
+
+<sub>Feito com código e chimarrão 🧉</sub>
 
 </div>
