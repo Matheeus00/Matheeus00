@@ -17,8 +17,11 @@ Curioso por software, sistemas embarcados e tudo que dá para desmontar, entende
 
 ## `01` / TECH STACK
 
-**Frontend & mobile**  
-`React` · `JavaScript` · `TypeScript` · `Flutter` · `HTML/CSS` · `React Native`
+**Frontend**  
+`React` · `JavaScript` · `TypeScript`
+
+**Mobile**  
+`Flutter` · `React Native`
 
 **Backend**  
 `Java` · `Spring Boot` · `Python` · `Django` · `FastAPI`
