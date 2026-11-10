@@ -23,8 +23,10 @@ Curioso por software, sistemas embarcados e tudo que dá para desmontar, entende
 **Backend**  
 `Java` · `Spring Boot` · `Python` · `Django` · `FastAPI`
 
-**Dados & ferramentas**  
-`MySQL` · `PostgreSQL` · `SQLite` · `MongoDB` · `SQL Server` · `Oracle Database`  
+**Dados**  
+`MySQL` · `PostgreSQL` · `SQLite` · `MongoDB` · `SQL Server` · `Oracle Database`
+
+**Ferramentas**  
 `Git` · `SVN` · `CVS` · `Jenkins` · `Hudson` · `Gradle` · `Maven` · `Ant`
 
 ## `02` / FORA DO TERMINAL
