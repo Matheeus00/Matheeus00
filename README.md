@@ -13,8 +13,8 @@
 ```text
 ┌─[matheeus@github]─[~/sobre-mim]
 └──╼ $ whoami
-     Desenvolvedor formado em Análise e Desenvolvimento de Sistemas,
-     do Brasil, que gosta de construir coisas para web e mobile.
+     Desenvolvedor formado em Análise e Desenvolvimento de Sistemas
+     e Gestão de TI, do Brasil, que gosta de construir coisas para web e mobile.
 ```
 
 ## 🧰 Minha caixa de ferramentas
@@ -33,11 +33,10 @@
 
 ## 🌱 Fora do código
 
-- Aprendendo japonês 🇯🇵
 - Gosto de mexer no meu carro — tanto em projetos embarcados quanto na manutenção 🔧🚗
 - Curto filosofia, ética e leituras distópicas das mais diversas 📚
 - Também gosto de ler, brincar com Python e passar tempo com meu cachorro Fred 🐶
-- Idiomas: português 🇧🇷 · espanhol 🇪🇸 · inglês 🇬🇧 · japonês (em aprendizado)
+- Idiomas: português 🇧🇷 · espanhol 🇪🇸 · inglês 🇬🇧 · japonês 🇯🇵 (em aprendizado)
 
 ## 💬 Por aqui
 
